@@ -95,7 +95,7 @@ Nmap-Network-Reconnaissance/
 ├── README.md
 ├── outputs/              # Raw scan output files
 ├── screenshots/          # Terminal screenshots for each stage
-└── report/               # Consolidated PDF report (optional)
+└── report/               # Consolidated PDF report
 ```
 
 ## 🛠️ Tools Used
