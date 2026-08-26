@@ -1,0 +1,8 @@
+# Nmap 7.991 scan initiated Wed Aug 26 14:33:00 2026 as: nmap -sA -oN firewall_detection.txt 192.168.203.128
+Nmap scan report for 192.168.203.128
+Host is up (0.0017s latency).
+All 1000 scanned ports on 192.168.203.128 are in ignored states.
+Not shown: 1000 unfiltered tcp ports (reset)
+MAC Address: 00:0C:29:DD:BA:3D (VMware)
+
+# Nmap done at Wed Aug 26 14:33:01 2026 -- 1 IP address (1 host up) scanned in 0.93 seconds
